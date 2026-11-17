@@ -4,15 +4,7 @@ Minecraft plugin developer and owner of [PaperStream](https://modrinth.com/organ
 
 ---
 
-[![Stats](https://github-readme-stats.hackclub.dev/api?username=LucasTHCRR&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/LucasTHCRR)
-
----
-
 [![Streak](https://streak-stats.demolab.com?user=LucasTHCRR&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
----
-
-[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasTHCRR&theme=github_dark)](https://github.com/LucasTHCRR)
 
 ---
 
